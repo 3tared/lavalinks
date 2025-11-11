@@ -82,6 +82,18 @@ export const PROFILE_DATA: ProfileData = {
       url: "https://whatsapp.com/channel/0029Vb0Phgu9mrGX7LTPGJ3b",
       icon: "whatsapp",
     },
+    {
+      id: "7",
+      title: "Occasions Pdf",
+      url: "https://j8v6vnsfxb.ufs.sh/f/KWERu0J43fSUcxzrOJ5ZeGmATNYO45FCkWlKu8JzHoPIqfb9",
+      icon: "globe",
+    },
+    {
+      id: "8",
+      title: "Owner Links",
+      url: "https://yehialinks.vercel.app/",
+      icon: "globe",
+    },
   ],
 
   // Social media links that appear as icons
